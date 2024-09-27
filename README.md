@@ -12,16 +12,16 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 - GitHub Stats:
-- ![Tu nombre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=dark)
+- ![Tu nombre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tsukasa234&show_icons=true&theme=dark)
 
 
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=dark)
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsukasa234&layout=compact&theme=dark)
 
 
--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tu_usuario&theme=dark)
+-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tsukasa234&theme=dark)
 
 
--![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tu_usuario&theme=darkhub)
+-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Tsukasa234&theme=darkhub)
 
 
 <!---
